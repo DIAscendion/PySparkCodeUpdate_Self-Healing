@@ -1,0 +1,16 @@
+Purpose of This Report Metrics
+
+This report provides insights into user engagement with Home Page Tiles in a digital application (mobile app or website).
+It answers key questions such as:
+
+How many users saw the home page tiles?
+
+How many users clicked them?
+
+How effective are the tiles in driving engagement?
+
+Which tiles perform better or worse than others?
+
+What portion of users clicked the primary or secondary buttons in an interstitial screen?
+
+Essentially, the report measures the performance and effectiveness of home page promotional tiles.
