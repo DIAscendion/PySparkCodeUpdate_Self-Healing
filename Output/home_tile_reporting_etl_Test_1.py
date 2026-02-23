@@ -141,11 +141,11 @@ Input:
 
 Output:
 """
-report += result_insert.to_markdown(index=False)
+report += result_insert.to_string(index=False)
 report += "\nStatus: PASS\n"
 
 report += "\n### Scenario 2: Update\nInput:\n| tile_id | tile_category |\n|---------|--------------|\n| T1      | PAYMENTS     |\n| T2      | HEALTH_CHECKS|\n\nOutput:\n"
-report += result_update.to_markdown(index=False)
+report += result_update.to_string(index=False)
 
 # Validate update
 if (result_update[result_update['tile_id']=='T1']['tile_category'] == 'PAYMENTS').all():
