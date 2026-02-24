@@ -1,0 +1,18 @@
+{
+  "input_file_name": "home_tile_reporting_etl",
+  "databricks_instance": "https://dbc-eba82ad6-7a8b.cloud.databricks.com",
+  "warehouse_id": "4ac98baaee04e0b2",
+  "output_folder": "/Workspace/Users/elansuriyaa.p@ascendion.com/PySpark",
+  "notebooks": [
+    {
+      "version": 1,
+      "pipeline_notebook": "home_tile_reporting_etl_Pipeline_1",
+      "pipeline_path": "/Workspace/Users/elansuriyaa.p@ascendion.com/PySpark/home_tile_reporting_etl_Pipeline_1",
+      "pipeline_created_on": "2024-06-07",
+      "test_notebook": "home_tile_reporting_etl_Test_1",
+      "test_path": "/Workspace/Users/elansuriyaa.p@ascendion.com/PySpark/home_tile_reporting_etl_Test_1",
+      "test_created_on": "2024-06-07",
+      "test_status": "PASS"
+    }
+  ]
+}
